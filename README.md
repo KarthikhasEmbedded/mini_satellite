@@ -30,18 +30,6 @@ MQ-2 – gas & air-quality sensor
 
 SD card module
 
-🚀 Getting Started
-
-*Flash your Pico with MicroPython or C++ firmware.
-
-*Clone this repo and upload the provided code.
-
-*Connect sensors as per pin mappings in the code.
-
-*Open the dashboard to view live readings.
-
-*Access SD logs for offline analysis.
-
 📚 Use Cases
 
 *IoT and telemetry learning project
