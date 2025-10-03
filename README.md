@@ -48,6 +48,6 @@ SD card module
 
 *Classroom demonstrations
 
-Environmental monitoring prototype
+*Environmental monitoring prototype
 
-CubeSat or UAV payload inspiration
+*CubeSat or UAV payload inspiration
